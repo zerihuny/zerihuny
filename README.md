@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Project Name]
+- 🔭 I’m currently working on inline Query Bot Using Python 
 - 🌱 I’m currently learning [Technologies or Skills you're learning]
 - 👯 I’m looking to collaborate on [Projects or Areas you want to collaborate on]
 - 🤔 I’m looking for help with [Any areas you need help with]
