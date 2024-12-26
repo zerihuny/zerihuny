@@ -5,17 +5,17 @@
 ## About Me
 
 - 🔭 I’m currently working on inline Query Bot Using Python 
-- 🌱 I’m currently learning [Technologies or Skills you're learning]
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on [Projects or Areas you want to collaborate on]
 - 🤔 I’m looking for help with [Any areas you need help with]
-- 💬 Ask me about [Topics you are knowledgeable about]
+- 💬 Ask me about Java Springboots
 - 📫 How to reach me: [Your email or other contact information]
-- ⚡ Fun fact: [A fun fact about you]
+- ⚡ Fun fact: not your someone.
 
 ## Skills
 
-- **Programming Languages:** [List of programming languages you know]
-- **Frameworks and Libraries:** [List of frameworks and libraries you use]
+- **Programming Languages:** Java, PHP
+- **Frameworks and Libraries:** Springboots & Laravel
 - **Tools and Platforms:** [List of tools and platforms you work with]
 
 ## GitHub Stats
