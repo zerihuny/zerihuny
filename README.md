@@ -28,6 +28,6 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/zerihun-binium/)
+- [Twitter](https://x.com/zerish_z)
 - [Personal Website or Blog](https://your-website.com)
