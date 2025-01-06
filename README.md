@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on inline Query Bot Using Python 
 - 🌱 I’m currently learning Laravel
-- 👯 I’m looking to collaborate on [Projects or Areas you want to collaborate on]
+- 👯 I’m looking to collaborate on ESP object detection using c++
 - 🤔 I’m looking for help with [Any areas you need help with]
 - 💬 Ask me about Java Springboots
 - 📫 How to reach me: [biniumyy@gmail.com]
