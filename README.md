@@ -16,7 +16,7 @@
 
 - **Programming Languages:** Java, PHP
 - **Frameworks and Libraries:** Springboots & Laravel
-- **Tools and Platforms:** [.Vscode]
+- **Tools and Platforms:** [.Vscode Vim Editor]
 
 ## GitHub Stats
 
