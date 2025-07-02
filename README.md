@@ -2,32 +2,78 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zerihuny&color=blue)
 
-## About Me
+---
 
-- 🔭 I’m currently working on inline Query Bot Using Python 
-- 🌱 I’m currently learning Laravel
-- 👯 I’m looking to collaborate on ESP object detection using c++
-- 🤔 I’m looking for help with [Any areas you need help with]
-- 💬 Ask me about Java Springboots
-- 📫 How to reach me: [biniumyy@gmail.com]
-- ⚡ Fun fact: not your someone.
+## 🚀 About Me
 
-## Skills
+- 🔭 Currently working on an **inline query bot** using **Python**  
+- 🌱 Learning **Laravel** for advanced backend development  
+- 👯 Looking to collaborate on **ESP object detection** with **C++**  
+- 🤔 Open to guidance in *DevOps, Embedded Systems, or ML deployment*  
+- 💬 Ask me anything about **Java & Spring Boot**  
+- 📫 Reach me at: **biniumyy@gmail.com**  
+- ⚡ Fun fact: *Not your average someone.*
 
-- **Programming Languages:** Java, PHP
-- **Frameworks and Libraries:** Springboots & Laravel
-- **Tools and Platforms:** [.Vscode Vim Editor]
+---
 
-## GitHub Stats
+## 🛠️ Skills
 
-![Zerihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerihuny&show_icons=true&theme=radical)
+- **Languages:** Java, PHP, Python, C++  
+- **Frameworks:** Spring Boot, Laravel  
+- **Tools & Editors:** VS Code, Vim, Git  
+- **Other:** REST APIs, MySQL, PostgreSQL, GitHub Actions
 
-## Top Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihuny&layout=compact&theme=radical)
+## 📊 GitHub Stats (Dark Theme)
 
-## Connect with Me
+<div align="center">
+  
+  ![Zerihun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerihuny&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihuny&layout=compact&theme=radical)
 
-- [LinkedIn](https://www.linkedin.com/in/zerihun-binium/)
-- [Twitter](https://x.com/zerish_z)
-- [Personal Website or Blog](https://your-website.com)
+</div>
+
+## 📈 Contribution Streak
+
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=zerihuny&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌞 GitHub Stats (Light Theme)
+
+<details>
+  <summary>Click to expand</summary>
+
+  <div align="center">
+
+  ![Zerihun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerihuny&show_icons=true&theme=default)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihuny&layout=compact&theme=default)
+
+  </div>
+
+</details>
+
+---
+
+## 📂 Featured Projects
+
+> Pin and showcase your favorite repos here
+
+- 🔗 [Inline Query Bot (Python)](https://github.com/zerihuny/inline-bot) *(in progress)*  
+- 🔗 [Java Spring Boot Microservice Template](https://github.com/zerihuny/springboot-template)  
+- 🔗 [ESP Object Detection](https://github.com/zerihuny/esp-detection) *(collaboration open)*
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/zerihun-binium/)  
+- 🐦 [Twitter / X](https://x.com/zerish_z)  
+- 🌐 [Personal Website](https://your-website.com) <!-- Replace with actual link -->
+
+---
