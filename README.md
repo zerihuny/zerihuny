@@ -1,4 +1,4 @@
-# Hi there, I'm Zerihun! 👋
+# 👋 Hi, I'm Zerihun Binium
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zerihuny&color=blue)
 
@@ -6,52 +6,63 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on an **inline query bot** using **Python**  
-- 🌱 Learning **Laravel** for advanced backend development  
-- 👯 Looking to collaborate on **ESP object detection** with **C++**  
-- 🤔 Open to guidance in *DevOps, Embedded Systems, or ML deployment*  
-- 💬 Ask me anything about **Java & Spring Boot**  
-- 📫 Reach me at: **biniumyy@gmail.com**  
+- 🔭 Currently building an **Inline Query Bot** with **Python**
+- 🌱 Diving deeper into **Laravel** for advanced backend dev
+- 👯 Open to collaboration on **ESP-based object detection** using **C++**
+- 🤝 Looking for mentorship in **DevOps**, **Embedded Systems**, or **ML deployment**
+- 💬 Ask me about anything **Java** or **Spring Boot**
+- 📫 Reach me at: `biniumyy@gmail.com`
 - ⚡ Fun fact: *Not your average someone.*
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- **Languages:** Java, PHP, Python, C++  
-- **Frameworks:** Spring Boot, Laravel  
-- **Tools & Editors:** VS Code, Vim, Git  
-- **Other:** REST APIs, MySQL, PostgreSQL, GitHub Actions
+**Languages:**  
+`Java` `Python` `PHP` `C++`
 
----
+**Frameworks & Libraries:**  
+`Spring Boot` `Laravel`
 
-## 📊 GitHub Stats (Dark Theme)
+**Databases & APIs:**  
+`MySQL` `PostgreSQL` `REST APIs`
 
-<div align="center">
-  
-  ![Zerihun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerihuny&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihuny&layout=compact&theme=radical)
-
-</div>
-
-## 📈 Contribution Streak
-
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zerihuny&theme=earth" alt="GitHub Streak" /></a>
-
-</div>
+**Tools & Platforms:**  
+`Git` `VS Code` `Vim` `GitHub Actions`
 
 ---
 
-## 🌞 GitHub Stats (Light Theme)
+## 📊 GitHub Insights
+
+<div align="center">
+
+![Zerihun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerihuny&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihuny&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=zerihuny&theme=earth&hide_border=true" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
+## 🌞 Alternate Theme (Light)
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to view light mode stats</summary>
 
   <div align="center">
 
-  ![Zerihun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerihuny&show_icons=true&theme=default)
+  ![Zerihun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerihuny&show_icons=true&theme=default&hide_title=true)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihuny&layout=compact&theme=default)
 
   </div>
@@ -62,18 +73,18 @@
 
 ## 📂 Featured Projects
 
-> Pin and showcase your favorite repos here
+> Selected repositories and collaborations:
 
-- 🔗 [Inline Query Bot (Python)](https://github.com/zerihuny/inline-bot) *(in progress)*  
-- 🔗 [Java Spring Boot Microservice Template](https://github.com/zerihuny/springboot-template)  
-- 🔗 [ESP Object Detection](https://github.com/zerihuny/esp-detection) *(collaboration open)*
+- 🔗 [Inline Query Bot (Python)](https://github.com/zerihuny/inline-bot) *(Work in Progress)*  
+- 🔗 [Spring Boot Microservice Template](https://github.com/zerihuny/springboot-template)  
+- 🔗 [ESP Object Detection (C++)](https://github.com/zerihuny/esp-detection) *(Open for collaboration)*
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/zerihun-binium/)  
-- 🐦 [Twitter / X](https://x.com/zerish_z)  
-- 🌐 [Personal Website](https://your-website.com) <!-- Replace with actual link -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/zerihun-binium/)
+- 🐦 [Twitter (X)](https://x.com/zerish_z)
+- 🌍 [Portfolio Website](https://your-website.com) <!-- Replace with your actual URL -->
 
 ---
