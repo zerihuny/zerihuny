@@ -38,7 +38,7 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zerihuny&theme=radical)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zerihuny&theme=earth" alt="GitHub Streak" /></a>
 
 </div>
 
