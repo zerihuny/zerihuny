@@ -185,7 +185,7 @@ const zerihun = {
 
 ![Bottom Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Made with ❤️ and lots of ☕**
+
 
 </div>
 
