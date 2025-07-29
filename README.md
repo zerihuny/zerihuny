@@ -17,7 +17,7 @@
 
 ```typescript
 const zerihun = {
-    pronouns: "he/him",
+ 
     location: "Ethiopia 🇪🇹",
     currentFocus: "Full Stack Development & DevOps",
     funFact: "I debug with console.log() and I'm not ashamed of it! 😄",
