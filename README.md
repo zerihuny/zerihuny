@@ -181,7 +181,7 @@ const zerihun = {
 
 <div align="center">
 
-### 💫 "The best way to predict the future is to create it"
+### 💫 "The best way to predict the future is to build it"
 
 ![Bottom Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
