@@ -22,7 +22,7 @@ const zerihun = {
     currentFocus: "Full Stack Development & DevOps",
     funFact: "I debug with console.log() and I'm not ashamed of it! 😄",
     lifePhilosophy: "Learn, Build, Share, Repeat",
-    currentlyReading: "Clean Architecture by Robert C. Martin"
+    
 };
 ```
 
