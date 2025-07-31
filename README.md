@@ -29,7 +29,7 @@ const zerihun = {
 ### 🎯 Current Journey
 - 🔭 **Building:** Advanced microservices architecture with **Go** and **Spring Boot**
 - 🌱 **Learning:** Cloud-native development with **Kubernetes** and **Docker**
-- 🤝 **Collaborating:** Open source ESP32-based IoT projects
+- 🤝 **Collaborating:** Open source Go projects
 - 💡 **Exploring:** Machine Learning integration in web applications
 - 📚 **Studying:** System design patterns and distributed architectures
 
