@@ -110,7 +110,7 @@ const zerihun = {
 
 </div>
 
-### 💡 Project Ideas I'm Working On
+### 💡 Project Ideas Working On
 
 <details>
 <summary>🔍 Click to explore upcoming projects</summary>
