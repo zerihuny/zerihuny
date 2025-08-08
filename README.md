@@ -18,8 +18,8 @@
 ```typescript
 const zerihun = {
  
-    location: "Ethiopia 🇪🇹",
-    currentFocus: "Full Stack Development & DevOps",
+    location: "Ethiopia",
+    currentFocus: "API Development & DevOps",
     funFact: "I debug with console.log() and I'm not ashamed of it! 😄",
     lifePhilosophy: "Learn, Build, Share, Repeat",
     
